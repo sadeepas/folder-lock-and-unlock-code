@@ -13,3 +13,8 @@ tkinter (usually included with Python)
 How to Run:
 Clone the repository.
 Run python secure_folder_manager.py from your terminal.
+
+
+preview 
+
+![image](https://github.com/user-attachments/assets/a50b391c-6d32-494f-adb8-e0020d3ae0f0)
